@@ -26,3 +26,5 @@
 
 ### [React StockCharts](https://github.com/rrag/react-stockcharts)
 ### [Go Charting](https://gocharting.com)
+### [Kattana 专业交易平台](https://kattana.trade/pricing.html)
+### [Bitsgap 数字货币交易平台](https://bitsgap.com/)
