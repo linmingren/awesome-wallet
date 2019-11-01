@@ -16,7 +16,7 @@
 
 ## DEX
 
-### [](https://github.com/OasisDEX/oasis-react)
+### [oasis DEX](https://github.com/OasisDEX/oasis-react)
 
 ## 公链
 
@@ -26,5 +26,7 @@
 
 ### [React StockCharts](https://github.com/rrag/react-stockcharts)
 ### [Go Charting](https://gocharting.com)
+### [techan交易图表](https://github.com/stock-chart/techan.js)
 ### [Kattana 专业交易平台](https://kattana.trade/pricing.html)
+### [d3fc 技术指标图](https://github.com/ColinEberhardt/d3fc-technical-indicator)
 ### [Bitsgap 数字货币交易平台](https://bitsgap.com/)
