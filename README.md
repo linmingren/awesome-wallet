@@ -30,3 +30,7 @@
 ### [Kattana 专业交易平台](https://kattana.trade/pricing.html)
 ### [d3fc 技术指标图](https://github.com/ColinEberhardt/d3fc-technical-indicator)
 ### [Bitsgap 数字货币交易平台](https://bitsgap.com/)
+
+## 资料集锦
+
+[量化资料](https://github.com/EliteQuant/EliteQuant)
