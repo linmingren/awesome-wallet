@@ -34,3 +34,23 @@
 ## 资料集锦
 
 [量化资料](https://github.com/EliteQuant/EliteQuant)
+[Elite量化平台](https://gitee.com/EliteQuant)
+
+## 国际象
+[Stockfish引擎](https://github.com/official-stockfish/Stockfish)
+[在线对战平台](https://chessui.com/chess.html#)
+[Python写的国际象棋引擎](https://lucaschess.pythonanywhere.com/index?lang=en)
+
+## 区块链游戏
+[Wofgame](https://wofgame.github.io/)
+
+## 加密算法
+
+[js实现的加密算法](http://cryptocoinjs.com/modules/crypto/crypto-hashing/)
+
+## 播放器
+[plyr播放器](https://github.com/sampotts/plyr#api)
+
+## 跨平台开发
+[uniapp](https://uniapp.dcloud.io)
+[ionic](https://ionicframework.com)
