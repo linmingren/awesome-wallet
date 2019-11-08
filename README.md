@@ -23,6 +23,8 @@
 ### [nuls 公链](https://github.com/nuls-io/nuls-v2)
 ### [vigcoin](https://github.com/vigcoin)
 ### [exonum](https://github.com/exonum)
+### [bytecoin, 基于cryptonote](https://github.com/bcndev/bytecoin)
+### [CryptoNote](https://github.com/cryptonotefoundation/cryptonote)
 
 ## K线
 
