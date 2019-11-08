@@ -25,6 +25,8 @@
 ### [exonum](https://github.com/exonum)
 ### [bytecoin, 基于cryptonote](https://github.com/bcndev/bytecoin)
 ### [CryptoNote](https://github.com/cryptonotefoundation/cryptonote)
+### [Terra, 基于Cosmos SDK](https://github.com/lino-network/lino)
+### [Lino, 基于Cosmos SDK](https://github.com/lino-network/lino)
 
 ## K线
 
