@@ -21,6 +21,8 @@
 ## 公链
 
 ### [nuls 公链](https://github.com/nuls-io/nuls-v2)
+### [vigcoin](https://github.com/vigcoin)
+### [exonum](https://github.com/exonum)
 
 ## K线
 
@@ -33,24 +35,25 @@
 
 ## 资料集锦
 
-[量化资料](https://github.com/EliteQuant/EliteQuant)
-[Elite量化平台](https://gitee.com/EliteQuant)
+### [量化资料](https://github.com/EliteQuant/EliteQuant)
+### [Elite量化平台](https://gitee.com/EliteQuant)
+### [Coinpride区块链资料](https://github.com/coinpride/CryptoList)
 
 ## 国际象
-[Stockfish引擎](https://github.com/official-stockfish/Stockfish)
-[在线对战平台](https://chessui.com/chess.html#)
-[Python写的国际象棋引擎](https://lucaschess.pythonanywhere.com/index?lang=en)
+### [Stockfish引擎](https://github.com/official-stockfish/Stockfish)
+### [在线对战平台](https://chessui.com/chess.html#)
+### [Python写的国际象棋引擎](https://lucaschess.pythonanywhere.com/index?lang=en)
 
 ## 区块链游戏
-[Wofgame](https://wofgame.github.io/)
+### [Wofgame](https://wofgame.github.io/)
 
 ## 加密算法
 
-[js实现的加密算法](http://cryptocoinjs.com/modules/crypto/crypto-hashing/)
+### [js实现的加密算法](http://cryptocoinjs.com/modules/crypto/crypto-hashing/)
 
 ## 播放器
-[plyr播放器](https://github.com/sampotts/plyr#api)
+### [plyr播放器](https://github.com/sampotts/plyr#api)
 
 ## 跨平台开发
-[uniapp](https://uniapp.dcloud.io)
-[ionic](https://ionicframework.com)
+### [uniapp](https://uniapp.dcloud.io)
+### [ionic](https://ionicframework.com)
