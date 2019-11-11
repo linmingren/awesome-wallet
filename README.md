@@ -17,6 +17,8 @@
 ## DEX
 
 ### [oasis DEX](https://github.com/OasisDEX/oasis-react)
+### [ForkDelta] (https://github.com/forkdelta/backend-replacement)
+### [EtherDelta的合约源码] (https://etherscan.io/address/0x8d12a197cb00d4747a1fe03395095ce2a5cc6819#code)
 
 ## 公链
 
