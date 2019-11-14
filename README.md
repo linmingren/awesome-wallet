@@ -31,8 +31,12 @@
 ### [Lino, 基于Cosmos SDK](https://github.com/lino-network/lino)
 ### [Telos,基于EOS] (https://github.com/Telos-Foundation/telos)
 ### [Qitmeer] (https://www.qitmeer.io/)
+### [Solana, 号称TPS几十万](https://github.com/solana-labs/solana)
+### [Conflux](https://github.com/Conflux-Chain/conflux-rust)
+### [Cocox-bcx游戏公链](https://www.cocosbcx.io/)
 
 ## K线
+
 
 ### [React StockCharts](https://github.com/rrag/react-stockcharts)
 ### [Go Charting](https://gocharting.com)
